@@ -1,2 +1,2 @@
 # ci_cd
-Test GitHub actions
+CI|CD tests on a Dash app using GitHub actions.
